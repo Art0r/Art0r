@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Art0r
 - 👀 I’m interested in learning as many technologies as possible
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Ruby on Rails
 - 📫 How to reach me Telegram: @art0r1
 
 <!---
