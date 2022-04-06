@@ -2,6 +2,7 @@
 - 👀 I’m interested in learning as many technologies as possible
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me Telegram: @art0r1
+- 📫 How to reach me Discord: art0r#4120
 
 <!---
 Art0r/Art0r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
