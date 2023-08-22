@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Art0r
-- 👀 I’m interested in learning as many technologies as possible
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me Telegram: @art0r1
-- 📫 How to reach me Discord: art0r#4120
-
-<!---
-Art0r/Art0r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m improving my knowledge in Mobile development, currently focusing on Jetpack Compose and Android Native 
+- 🌱 I’m currently learning Kotlin
+- 📫 How to reach me on Telegram: @art0r1
+- 📫 How to reach me on Discord: art0r#4120
