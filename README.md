@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Art0r
-- 👀 I’m improving my knowledge in Mobile development, currently focusing on Jetpack Compose and Android Native 
-- 🌱 I’m currently learning Kotlin
+- 👀 Currently working with Flutter
 - 📫 How to reach me on Telegram: @art0r1
 - 📫 How to reach me on Discord: art0r#4120
